@@ -1,0 +1,215 @@
+* {
+    margin-top: 0;
+    padding: 0;
+    line-height: 20px;
+    box-sizing: border-box;
+}
+
+.show {
+    border: 2px solid white;
+    width: 1300px;
+    height: 70px;
+    float: left;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.sh {
+    border: 2px solid white;
+    width: 200px;
+    height: 60px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.show1 {
+    border: 2px solid white;
+    width: 50px;
+    height: 50px;
+}
+
+.show2 {
+    border: 2px solid white;
+    width: 125px;
+    height: 50px;
+}
+
+.sho {
+    border: 2px solid white;
+    width: 500px;
+    height: 60px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+
+
+.show2a {
+    border: 2px solid white;
+    width: 80px;
+    height: 50px;
+}
+
+.show2b {
+    border: 2px solid white;
+    width: 80px;
+    height: 50px;
+}
+
+.show2c {
+    border: 2px solid white;
+    width: 80px;
+    height: 50px;
+}
+
+.show2d {
+    border: 2px solid white;
+    width: 80px;
+    height: 50px;
+}
+
+.show2e {
+    border: 2px solid white;
+    width: 80px;
+    height: 50px;
+}
+
+.show2f {
+    border: 2px solid white;
+    width: 80px;
+    height: 50px;
+}
+
+hr {
+    color: rgb(251, 252, 253);
+}
+
+table {
+    margin-top: 7px;
+    padding-bottom: 6px;    
+}
+
+.freeone {
+    margin-left: 270px;
+    margin-bottom: 40px;
+} 
+.tabone {
+    width: 130px
+}
+.tabnone{
+    color: rgb(43, 41, 41);
+    font-weight: 350;
+}
+
+.tab{
+    color: white
+}
+
+.tabtwo {
+    width: 25px
+}
+.tabthree {
+    width: 50px
+}
+
+.tabfour {
+    width: 50px
+}
+
+.tabfive {
+    width: 50px;       
+}
+
+.tabsix {
+    width: 100px;
+         
+}
+
+.tabseven {     
+    width: 150px;
+    font-size: 24px;    
+}
+
+.tabtop {
+    padding-bottom: 3px;
+}
+ 
+.tabzero {
+    width: 80px;    
+}
+    
+
+a {
+    text-decoration: none;
+    color: rgb(213, 47, 47);
+}
+
+p {
+    font-size:18.4px;
+    color:rgb(69,69,71);
+}
+p, a, span, button, table, h1, h3 {    
+    font-family: system-ui, "Avenir Next", Avenir, "Segoe UI", "Lucida Grande", "Helvetica Neue", Helvetica, "Fira Sans", Roboto, Noto, "Droid Sans", Cantarell, Oxygen, Ubuntu, "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
+}
+
+h1{    
+    font-size: 45px;
+    color:  rgb(41,41,44);
+    font-weight: 1000px;
+}
+
+h3 {   
+    font-size: 23px;
+    color:  rgb(41,41,44);
+}
+
+h3:hover {
+    color: rgb(213, 47, 47);
+}
+
+.none {
+    border: 1px;
+}
+
+.Oneone {
+    border: 2px solid none;
+    height: 35px;
+    background-color: rgb(213, 47, 47);
+}
+
+.Onetwo {
+    font-size: 11.8px;
+}
+
+.Onethree {
+    text-decoration: underline;    
+}
+
+.Onefour {
+    font-size: 12.6px;    
+}
+
+.Onefive {
+    text-align: center;
+}
+
+input {
+    border: 1px solid;
+    height: 39px; 
+    width: 400px; 
+    color: black; 
+    margin-left: 350px;    
+}
+
+.noend {
+    border: 1px solid none;
+    height: 39px;
+    background-color: rgb(213, 47, 47);
+    border-color: rgb(213, 47, 47);
+    width: 120px;
+    color: white;
+}
+
+
+

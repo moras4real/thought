@@ -1,0 +1,30 @@
+@media screen and (max-width: 500px) {
+    .freeone {
+        margin-left: 2px;
+        margin-bottom: 40px;
+    } 
+
+    input {
+        border: 1px solid;
+        height: 39px; 
+        width: 200px; 
+        color: black; 
+        margin-left: 3px;    
+    }
+
+    h1{    
+        font-size: 45px;
+        color:  rgb(41,41,44);
+        font-weight: 1000px;        
+    }
+
+    .show {
+        border: 2px none;
+        width: 400px;
+        height: 180px;        
+        display: inline;
+        flex-flow: none;
+        justify-content: none;
+    }
+}
+  
